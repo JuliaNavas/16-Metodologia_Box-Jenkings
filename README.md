@@ -1,2 +1,2 @@
-# 16-Metodologia_Box-Jenkings
-Metodo BJ
+# aula-16
+Dynamic Trading Rights 
